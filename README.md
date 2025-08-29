@@ -17,12 +17,6 @@ The Email Spam Detection App is a machine learning-based application designed to
 
 ---
 
-## Demo
-
-![Demo Screenshot](demo_screenshot.png) <!-- Add your real screenshot here -->
-
----
-
 ## Getting Started
 
 ### Prerequisites
